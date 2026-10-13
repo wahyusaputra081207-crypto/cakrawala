@@ -1,0 +1,6 @@
+{
+  "name": "Cakrawala Akademi",
+  "description": "Platform pembelajaran interaktif inovatif dengan kursus daring terstruktur, simulasi laboratorium visual, kuis adaptif, dan ruang diskusi komunitas aktif untuk pelajar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
